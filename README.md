@@ -1,5 +1,7 @@
 # BERT Powered QnA Webapp using Tensorflow JS and React
 
+Ran into some issues with tensorflow versions. Postponing this project indefinitely.
+
 ### What is BERT?
 1. A natural language model that uses transformers for a wide variety of tasks
 2. Works well for question answering, named entity recognition, and natural language inference

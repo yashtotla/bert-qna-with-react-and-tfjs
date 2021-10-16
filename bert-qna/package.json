@@ -8,10 +8,11 @@
 	},
 	"dependencies": {
 		"@tensorflow-models/qna": "^1.0.0",
-		"@tensorflow/tfjs": "^3.9.0",
-		"react": "^17.0.0",
-		"react-dom": "^17.0.0",
-		"react-loader-spinner": "^4.0.0"
+		"@tensorflow/tfjs": "^2.4.0",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-loader-spinner": "^3.1.14",
+		"react-scripts": "^4.0.3"
 	},
 	"devDependencies": {
 		"@vitejs/plugin-react": "^1.0.0",
